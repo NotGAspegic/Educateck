@@ -23,8 +23,8 @@ an IoT-based smart high school system with environmental monitoring and a parkin
 
 **Realisation**
 </br>
-<img src="Assets/Realisation1.jpg" />
-<img src="Assets/Realisation2.jpg" />
+<img src="publiic/Realisation1.jpg" />
+<img src="publiic/Realisation2.jpg" />
 
 
 **Videos**
