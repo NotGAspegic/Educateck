@@ -14,10 +14,17 @@ an IoT-based smart high school system with environmental monitoring and a parkin
 - Support English Language
 
 
-**Screenshot**
+**Screenshot from APP**
 </br>
 <img src="publiic/Screenshot_2.png" />
 <img src="publiic/Screenshot_3.png" />
+
+
+
+**Realisation**
+</br>
+<img src="Assets/Realisation1.jpg" />
+<img src="Assets/Realisation2.jpg" />
 
 
 **Videos**
